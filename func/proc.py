@@ -1,25 +1,9 @@
 import re
 import numpy as np
-import pandas as pd
-import numpy as np
-import tqdm
-import matplotlib.pyplot as plt
-import seaborn as sns
-from nltk.tokenize import sent_tokenize, word_tokenize
-from nltk.corpus import stopwords
-from nltk.sentiment import SentimentIntensityAnalyzer
 from collections import Counter
-from wordcloud import WordCloud
-from string import punctuation
 import re
-from nltk.stem.snowball import SnowballStemmer
-from sklearn.feature_extraction.text import CountVectorizer
-from nltk.sentiment.vader import SentimentIntensityAnalyzer # Sentiment analysis
-import pprint # to print dictionaries
-from nrclex import NRCLex
 from scipy import stats
 from numpy.linalg import norm
-import numpy as np
 import time
 
 
