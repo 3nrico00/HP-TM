@@ -2,6 +2,8 @@
 
 This repository contains a text mining analysis project conducted as the final work for the PhD course "Programming Methodologies for Data Analysis." The topic was not fixed; we chose to analyze the Harry Potter series with a focus on sentiment, book ordering, and clustering.
 
+This project was completed together with Virginia Murru and Alex Cecchetto.
+
 ## Project Structure
 
 - `Data/`: Contains raw texts and datasets.
@@ -24,6 +26,7 @@ This repository contains a text mining analysis project conducted as the final w
 - Both clustering methods consistently split the books into: 
   - first three (pre-Voldemort's return)
   - last four (post-return)
+    
   This result is meaningful and consistent between methods.
 
 ## Disclaimer
